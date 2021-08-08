@@ -19,3 +19,7 @@
 
 [Google'ye Gitmek Icın Tiklayiniz](https://google.com)
 (yapilis sekli : [linkin gorunurdeki adi](linkin adresi) seklinde
+
+
+
+![Lorem Picsum Gorsel](https://picsum.photos/200/300)
