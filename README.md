@@ -35,3 +35,9 @@ System.out.println("Bu islem bunun kod blogu olduguunu gosterir. Yapilis sekli :
                   alt satir ve burda yazacagin kod.
                   bir daha alt satir ve ``` seklinde oluyor");
 ```
+
+***
+
+```javascript
+console.log("Javascript ile olsuturuldu");
+```
