@@ -17,4 +17,4 @@
 ***bolditalik yazi ( yazacagin yerin iki ucuna ucer yildiz koyarak yapilir. )***
 
 
-[Google'ye Gitmek Icın Tiklayiniz](https://google.com)
+[Google'ye Gitmek Icın Tiklayiniz   ( yapilis sekli : [linkin gorunurdeki adi](linkin adresi)])](https://google.com)
