@@ -1,0 +1,27 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.nav-head-bg-color {
+    background-color: #c4e2ff;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #414141; 
+}
+
+.baslik-buton {
+    border-radius: 30px;
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+.head-size { 
+    height: 25px;
+}
+
+.content-margin {
+    margin-top: 67px;
+}
