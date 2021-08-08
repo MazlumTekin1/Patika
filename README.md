@@ -39,5 +39,5 @@ System.out.println("Bu islem bunun kod blogu olduguunu gosterir. Yapilis sekli :
 ***
 
 ```javascript
-console.log("Javascript ile olsuturuldu");
+console.log(" *** bu yatay cizgi olusturmaya yarar.");
 ```
