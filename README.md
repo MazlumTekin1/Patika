@@ -1,0 +1,7 @@
+# Patika
+Patika Odevleri
+
+-
+-
+*
+*
