@@ -30,7 +30,7 @@ linkin en basina unlem koyulmasi ile olusur
 
 ***
 
-```Java
+```java
 System.out.println("Bu islem bunun kod blogu olduguunu gosterir. Yapilis sekli : ```kullanacagin dilin adi(mesela burda Java) 
                   alt satir ve burda yazacagin kod.
                   bir daha alt satir ve ``` seklinde oluyor");
