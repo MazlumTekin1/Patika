@@ -7,8 +7,8 @@ Patika Odevleri
 
 *  '*' isaretli liste elemani ikisi de ayni isi gorur.
 
-*italik yazi((*)yazmak istedigin kisim(*) seklinde )*
+*italik yazi( yazacagin yerin iki ucuna birer yildiz koyarak yapilir.)*
 
-**bold yazi tipi((**)yazmak istedigin kisim(**) seklinde )**
+**bold yazi tipi(yazacagin yerin iki ucuna ikiser yildiz koyarak yapilir. )**
 
-***bolditalik yazi((***)yazmak istedigin kisim(***) seklinde )***
+***bolditalik yazi ( yazacagin yerin iki ucuna ucer yildiz koyarak yapilir. )***
