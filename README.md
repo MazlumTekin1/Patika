@@ -27,3 +27,11 @@
 
 ![Lorem Picsum Gorsel](https://picsum.photos/200/300)
 linkin en basina unlem koyulmasi ile olusur
+
+***
+
+```Java
+System.out.println("Bu islem bunun kod blogu olduguunu gosterir. Yapilis sekli : ```kullanacagin dilin adi(mesela burda Java) 
+                  alt satir ve burda yazacagin kod.
+                  bir daha alt satir ve ``` seklinde oluyor");
+```
